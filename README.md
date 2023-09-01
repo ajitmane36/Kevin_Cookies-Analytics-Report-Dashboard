@@ -6,7 +6,7 @@ Welcome to the "Kevin-Cookies-Analytics-Report-Dashboard" dashboard repository. 
 
 ### <ins>Dashboard Preview </ins> :
 
-![Dashboard](https://github.com/ajitmane36/Kevin-Cookies-Analytics-Report-Dashboard/blob/da55af1946910408203ae1029ece57b4ea480828/Kevin%20Cookies%20Company%20Perfomance%20Dashboard.pdf)
+![Dashboard](https://github.com/ajitmane36/Kevin_Cookies-Analytics-Report-Dashboard/blob/5ff01bf5950f6dee28ccf1538445dc2eeded5933/Kevin%20Cookies%20Company%20Perfomance%20Dashboard.jpg)
 
 ### <ins> Dataset</ins> :
 - Dataset includes information on sales transactions, inventory levels, customer profiles, and financial data.
