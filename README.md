@@ -29,7 +29,7 @@ To explore and interact with the dashboard:
 
 2. Clone Repository: Clone this GitHub repository to your local machine.
 
-    https://github.com/ajitmane36/Kevin-Cookies-Analytics-Report-Dashboard.git
+    https://github.com/ajitmane36/Kevin_Cookies-Analytics-Report-Dashboard.git
 
 3. Open in Power BI: Launch Power BI Desktop and open the "Kevin Cookies Company Perfomance Dashboard.pbix" file located in the repository.
 
