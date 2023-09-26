@@ -1,4 +1,4 @@
-# <b> Kevin Cookies Company Performance Report - Dashboard <b>
+.# <b> Kevin Cookies Company Performance Report - Dashboard <b>
 Welcome to the "Kevin-Cookies-Analytics-Report-Dashboard" dashboard repository. This Power BI dashboard provides valuable insights into the performance and key metrics of the Kevin Cookies Company. Analyze sales, inventory, customer engagement, and profitability data through interactive visualizations and make data-driven decisions.
 
 ### <ins>Dashboard Link</ins> : [Click Here](https://app.powerbi.com/view?r=eyJrIjoiMjkzZDU1YTQtMmFhZi00MjhhLTkzMTMtMjFjNzdlYmI0OWI0IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
